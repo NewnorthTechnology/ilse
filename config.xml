@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.malmopride2016" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.malmopride" version="1.0.0">
   <name>Malmö Pride 2016</name>
   <description>The annual Malmö Pride app for 2016.</description>
   <author href="http://www.newnorth.technology" email="james@newnorth.technology">Newnorth Technology</author>
